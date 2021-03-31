@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "605c84cb5871770eb74e8662",
+      "regions": [
+        {
+          "name": "Uberaba",
+          "status": "validated",
+          "active": true,
+          "weight_start": 0,
+          "weight_end": 999,
+          "maximum_volume": 999,
+          "delivery_fee": "4.99",
+          "shipping_time_value": 1,
+          "shipping_time_measure": "days"
+        }
+      ]
+    },
+    {
+      "id": "605c84d43c46607e4b1767f2",
+      "regions": [
+        {
+          "name": "Uberlândia",
+          "status": "validated",
+          "active": true,
+          "weight_start": 0,
+          "weight_end": 999,
+          "maximum_volume": 999,
+          "delivery_fee": "9.99",
+          "shipping_time_value": 1,
+          "shipping_time_measure": "days"
+        }
+      ]
+    },
+    {
+      "id": "605c84dbf9768b35541786c2",
+      "regions": [
+        {
+          "id": "605c84eb5871770eb74e8663",
+          "status": "validation_error",
+          "active": false,
+          "name": "Centro",
+          "delivery_fee": "0",
+          "shipping_time_value": 1,
+          "shipping_time_measure": "days"
+        },
+        {
+          "id": "605c84f43c46607e4b1767f3",
+          "status": "validated",
+          "active": true,
+          "name": "Perequê-Açú",
+          "delivery_fee": "4.99",
+          "shipping_time_value": 1,
+          "shipping_time_measure": "days"
+        }
+      ]
+    }
+  ]
+}

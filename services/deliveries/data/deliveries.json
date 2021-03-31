@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "id": "605c84cb5871770eb74e8662",
+      "region_type": "city",
+      "kind": "error",
+      "number_of_regions": 1,
+      "number_of_regions_failed": 1,
+      "city": {
+        "id": 3170107,
+        "name": "Uberaba",
+        "state": {
+          "name": "Minas Gerais",
+          "code": "MG"
+        }
+      },
+      "regions": [
+        {
+          "name": "Uberaba",
+          "status": "validated",
+          "active": true,
+          "weight_start": 0,
+          "weight_end": 999,
+          "maximum_volume": 999,
+          "delivery_fee": "4.99",
+          "shipping_time_value": 1,
+          "shipping_time_measure": "days"
+        }
+      ]
+    },
+    {
+      "id": "605c84d43c46607e4b1767f2",
+      "region_type": "city",
+      "kind": "success",
+      "number_of_regions": 1,
+      "number_of_regions_failed": 0,
+      "city": {
+        "id": 3170206,
+        "name": "Uberlândia",
+        "state": {
+          "name": "Minas Gerais",
+          "code": "MG"
+        }
+      },
+      "regions": [
+        {
+          "name": "Uberlândia",
+          "status": "validated",
+          "active": true,
+          "weight_start": 0,
+          "weight_end": 999,
+          "maximum_volume": 999,
+          "delivery_fee": "9.99",
+          "shipping_time_value": 1,
+          "shipping_time_measure": "days"
+        }
+      ]
+    },
+    {
+      "id": "605c84dbf9768b35541786c2",
+      "region_type": "district",
+      "kind": "warning",
+      "number_of_regions": 2,
+      "number_of_regions_failed": 1,
+      "city": {
+        "id": 3555406,
+        "name": "Ubatuba",
+        "state": {
+          "name": "São Paulo",
+          "code": "SP"
+        }
+      },
+      "regions": [
+        {
+          "id": "605c84eb5871770eb74e8663",
+          "status": "validation_error",
+          "active": false,
+          "name": "Centro",
+          "delivery_fee": "0",
+          "shipping_time_value": 1,
+          "shipping_time_measure": "days"
+        }
+      ]
+    }
+  ]
+}

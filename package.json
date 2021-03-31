@@ -31,7 +31,7 @@
     "prettier": "2.2.1"
   },
   "scripts": {
-    "dev": "next dev -p 3000",
+    "dev": "next dev -p 3001",
     "build": "next build",
     "start": "next start",
     "test": "jest --forceExit",

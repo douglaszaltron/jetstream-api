@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "city_id": 3170107,
+      "name": "Centro"
+    },
+    {
+      "city_id": 3170206,
+      "name": "Centro"
+    },
+    {
+      "city_id": 3170206,
+      "name": "Patrimônio"
+    },
+    {
+      "city_id": 3170206,
+      "name": "Santa Mônica"
+    },
+    {
+      "city_id": 3170206,
+      "name": "Planalto"
+    },
+    {
+      "city_id": 3170206,
+      "name": "Copacabana"
+    },
+    {
+      "city_id": 3555406,
+      "name": "Centro"
+    },
+    {
+      "city_id": 3555406,
+      "name": "Perequê-Açú"
+    }
+  ]
+}

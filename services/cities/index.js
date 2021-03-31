@@ -1,6 +1,7 @@
 import InternalError from '@/errors/internal';
 import BadRequestError from '@/errors/bad-request';
 import cities from '@/services/cities/data/cities.json';
+import districts from '@/services/cities/data/districts.json';
 import filter from '@/services/cities/filter';
 
 export const findCitiesByName = async (search) => {
@@ -35,6 +36,20 @@ export const findCityById = async (id) => {
     return cities.items
       .filter((collator) => collator.id === Number(id))
       .shift();
+  } catch (error) {
+    throw new InternalError(error);
+  }
+};
+
+export const findDistrictsByCityId = async (id) => {
+  try {
+    if (!id) {
+      throw new BadRequestError({ message: 'O campo id é requirido.' });
+    }
+
+    return districts.items.filter(
+      (collator) => collator.city_id === Number(id)
+    );
   } catch (error) {
     throw new InternalError(error);
   }
