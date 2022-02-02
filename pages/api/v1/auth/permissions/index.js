@@ -1,7 +1,7 @@
 import app from '@/app';
 
 const permissions = {
-  raphaelsapatos: {
+  zaltron_store_sandbox: {
     'freight-api': [
       'CHANNEL_READ',
       'IMPORT_CANCEL',
