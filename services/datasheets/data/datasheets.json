@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "datasheet_uuid":"744ed111-1d68-44da-9b7b-5ebf910a2c4d",
+      "identifiers":[
+        {
+          "type":"EAN",
+          "value":"9788535909555"
+        },
+        {
+          "type":"GTIN",
+          "value":"9788535909555"
+        }
+      ],
+      "image_url":"https://a-static.mlcdn.com.br/450x450/livro-a-revolucao-dos-bichos/magazineluiza/088615400/151d535592c8b818be881e7d033b9ba8.jpg",
+      "status":"APPROVED",
+      "title":"Livro -  A revolução dos bichos"
+    },
+    {
+      "datasheet_uuid":"5758ffbe-cf47-47c6-8409-9bf17e26f3bc",
+      "identifiers":[
+        {
+          "type":"EAN",
+          "value":"9788545202219"
+        }
+      ],
+      "image_url":"https://a-static.mlcdn.com.br/450x450/livro-o-poder-da-autorresponsabilidade-livro-de-bolso/magazineluiza/223802700/7d5181e8721a20a0de4162faa63301e1.jpg",
+      "status":"PENDING",
+      "title":"Livro - O poder da autorresponsabilidade: Livro de bolso"
+    },
+    {
+      "datasheet_uuid":"e4a4328f-4bd8-43b0-9809-0ae361122314",
+      "identifiers":[
+        {
+          "type":"EAN",
+          "value":"9788545202219"
+        }
+      ],
+      "image_url":"https://a-static.mlcdn.com.br/450x450/livro-o-poder-da-autorresponsabilidade-livro-de-bolso-novo-lacrado/shopdelcaribe/13729084981/d59812fed442cab68188d097a08f54bf.jpg",
+      "status":"PENDING",
+      "title":"Livro - O poder da autorresponsabilidade"
+    },
+    {
+      "datasheet_uuid":"0230b5cd-49c1-44e0-8de2-14db992b81ca",
+      "identifiers":[
+        {
+          "type":"EAN",
+          "value":"9788545202219"
+        }
+      ],
+      "image_url":"https://a-static.mlcdn.com.br/450x450/livro-o-poder-da-autorresponsabilidade-livro-de-bolso-novo-lacrado/shopdelcaribe/13729084981/d59812fed442cab68188d097a08f54bf.jpg",
+      "status":"APPROVED",
+      "title":"O poder da autorresponsabilidade"
+    }
+  ]
+}
